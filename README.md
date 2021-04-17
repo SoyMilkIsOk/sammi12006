@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sammi12006
+- 👀 I’m interested software and design!
+- 🌱 C++ & Python
+- 💞️ Start-Ups HMU!
+- 📫 sammi12006@gmail.com
