@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sammi12006
 - 👀 I’m interested software and design!
-- 🌱 C++ & Python
+- 🌱 Web-Design! (Tailwind, NEXT, React, Bootstrap, etc.)
 - 💞️ Start-Ups HMU!
 - 📫 sammi12006@gmail.com
