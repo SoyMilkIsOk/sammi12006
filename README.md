@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sammi12006
 - 👀 I’m interested software and design!
-- 🌱 Web-Design! (Tailwind, NEXT, React, Bootstrap, etc.)
+- 🌱 Big on web apps (next.js, React, Bootstrap, Svelte, etc.)
 - 💞️ Start-Ups HMU!
 - 📫 sammi12006@gmail.com
